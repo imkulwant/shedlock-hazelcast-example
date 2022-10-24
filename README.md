@@ -1,1 +1,1 @@
-# spring-boot-template
+# shedlock-hazelcast-example
